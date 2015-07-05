@@ -1,0 +1,11 @@
+{
+	"user-agent": "Migration script.",
+	"from": {
+		"user": "",
+		"passwd": ""
+	},
+	"to": {
+		"user": "",
+		"passwd": ""
+	}
+}
